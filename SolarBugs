@@ -39,6 +39,31 @@
         height: 100px;
         float: right;
       }
+      
+      #nav
+      { 
+        list-style: none;
+      }
+      
+      #nav a 
+      { 
+        color: white;
+        text-decoration: none;
+      }
+      
+      #nav li
+      {
+        float: left;
+        margin-left: 30px;
+        background-color: #252525;
+        padding: 8px;
+        border: 1px solid silver;
+      }
+      }
+      
+
+         
+
       </style>
     </head>
     <body>
