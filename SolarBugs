@@ -43,6 +43,7 @@
       #nav
       { 
         list-style: none;
+        margin-top: 30px; 
       }
       
       #nav a 
@@ -58,12 +59,20 @@
         background-color: #252525;
         padding: 8px;
         border: 1px solid silver;
-      }
+        border-radius: 5px;
+        }
+        
+      #nav li
+      {
+        background-color: gray; 
       }
       
-
-         
-
+      .page 
+      {
+        background-color: white;
+        padding: 20px;
+      }
+      
       </style>
     </head>
     <body>
@@ -81,3 +90,19 @@
                     </ul>
                   </div>
                 </div>
+                <div id = "mainArea">
+                    <div class = "container page">
+                        <h3>Hello....</h3>
+                        <p>!!!!!!!!!!!!!!!!!!!!!!! </p> 
+                        <h3>Hello....</h3>
+                        <p>!!!!!!!!!!!!!!</p> 
+                        <h3>Hellllooo....</h3>
+                        <p>!!!!!!!!!!!!!!!</p> 
+                        <h3>Hellllloooo....</h3>
+                        <p>!!!!!!!!!!!!!!!!</p> 
+                      </div>
+                    </div> 
+                  <div id = "footer">
+                      <div class = "container"> Copyright Notice Here- Site maintained by Laura</div>
+            </body>
+          </html>
