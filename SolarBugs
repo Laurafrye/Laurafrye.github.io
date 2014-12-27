@@ -1,0 +1,22 @@
+<html> 
+  <head>
+    <title> Solar Bugs </title> 
+      <style type = "text/css">
+      
+      </style>
+    </head>
+    <body>
+      
+      <div id = "header">
+        <div class = "container">
+          <div id = "logoArea"></div> 
+          <div id = "navArea">
+                  <ul id = "nav">
+                      <a href = "#"><li>Home</li></a>   
+                      <a href = "#"><li>About</li></a> 
+                      <a href = "#"><li>Instructions</li></a> 
+                      <a href = "#"><li>Future</li></a> 
+                      <a href = "#"><li>Information</li></a> 
+                    </ul>
+                  </div>
+                </div>
