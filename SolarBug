@@ -55,14 +55,12 @@
         border-radius: 5px;
     }
 
-    #nav li: hover 
-    {
-        background-color: gray;
-    }
+  
     .page
     {
         background-color: white;
         padding: 20px;
+        padding-bottom: 1px;
         }
     #footer
     {
@@ -72,6 +70,11 @@
         color: white; 
         padding: 20px;
     }
+   
+    P
+    {
+       margin-bottom: 20px;
+     }
                                     </style>
                             </head>
                     <body>
