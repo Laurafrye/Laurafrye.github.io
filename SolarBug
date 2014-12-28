@@ -2,16 +2,16 @@
 <head>
 <style>
 
-<h1> { 
+h { 
     text-align: center;
     }
-<p> {
+p {
     text-align: center;
     font-size: 24px;
     }
     
 
-    <body> {
+    body {
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -22,7 +22,7 @@
     font-family: Helvetica;
     }
 
-<input> {
+input {
     border: 0;
     padding: 12px;
 }
