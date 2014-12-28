@@ -55,9 +55,17 @@
       {
         float: left;
         margin-left: 30px;
+        background-color: #252525;
+        padding: 8px;
+        border: 1px solid silver;
+        border-radius: 5px;
       }
       
-      
+      #nav li: hover 
+      { 
+        background color: gray; 
+      } 
+    
     </style>
   </head>
   <body>
@@ -73,6 +81,14 @@
             <a href = "#"><li>Future Plans</li></a>
           </ul>
         </div>
+      </div>
+      </div>
+      <div id = "mainArea">
+        <div class = "container page">
+            <h3>About our bugs....</h3> 
+              <p>Our solar bugs are a fun and easiy way to get kids intrested in solar energy.</p>
+        </div>
+      
       </div>
     </body>
   </html>
