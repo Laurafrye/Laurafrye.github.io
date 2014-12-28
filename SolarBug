@@ -101,12 +101,7 @@
                     <p>We plan on making these with a class.</p>
                 </div>
             </div>
-                    <div id = "HomeArea">
-                    <div class = "container page">
-                    <h3> About us...</h3>
-                    <p>Hello!</p>
-                </div>
-            </div>
+                
         <div id = "footer">
         <div class = "container">Copyright Notice Here- Site maintained by Laura Frye</div>
         </div>
