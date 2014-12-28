@@ -1,11 +1,41 @@
-<html>
+<!DOCTYPE html>
+<head>
 <style>
+
 h1 {
     text-align: center;
     }
+p {
+    text-align: center;
+    font-size: 24px;
+    }
+    
+
+    body {
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    text-align: center;
+    background: url("https://codecademy-content.s3.amazonaws.com/courses/web-beginner-en-3pc6w/images/splash.jpg");;
+    color: white;
+    font-family: Helvetica;
+    }
+
+input {
+    border: 0;
+    padding: 12px;
+}
+
+input[type="submit"]{
+    background: limegreen;
+    color: black;
+}
 </style> 
-<h1>Laura Frye</h1>
+</head>
+<body>
+<img src="https://codecademy-content.s3.amazonaws.com/courses/web-beginner-en-3pc6w/images/avatar.jpg" height="250" width="250">
 <p>Hi! I am learning how to make my very own web page! I relly like blueberry muffins and long walks on the beach.</p>
 <input type="email" Placeholder="Email">
 <input type="submit"> 
-</html>
+</body>
