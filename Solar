@@ -5,22 +5,23 @@
   <title>Solar Bugs</title> 
 </head>
 
-  body 
-    { 
-        font-family: arial;
-        background-color: #ebebeb;
-    }
-
-<body> 
- <div id="maimComtaner">
-    
-    #header 
+  <body> 
+    <header>
+    <div id="maimComtaner"> 
     {
         background-color: black;
         height: 100px;
         width: 100%;
     }
+    </header?
+    { 
+        font-family: arial;
+        background-color: #ebebeb;
+    }
+
+   
     </div>
+    
 
       <nav class="horizontalNAV">
         <ul>  
