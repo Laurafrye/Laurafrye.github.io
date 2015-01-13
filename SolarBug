@@ -75,6 +75,8 @@
     {
        margin-bottom: 20px;
      }
+    
+    <marquee behavior="scroll" direction="left">Learn how to make cool solar bugs that will teach about solar power here!</marquee>
                                     </style>
                             </head>
                     <body>
@@ -114,13 +116,9 @@
                     <tr><td>motor</td><td>1</td></tr>
                     <tr><td>small solar panel</td><td>1</td></tr>
                     </table>
-                <h3>The Purpose and Long Term 
+                <h3>The Purpose and Long Term</h3> 
                 <p>Our project puts the idea of solar power being used for electricity and heat on a smaller scale, allowing younger children to make sense of the concept. Our design is a fun and easy way to introduce large classrooms of children to the topic of solar energy while giving them a chance to express creative freedom and pick up the thought of recycling. Our project will soon be involved further in our community through the children at our local elementary school. We hope to obtain a grant through our high school Pride organization that will allow us to produce enough materials to supply an entire classroom. With this we will take time to teach a lesson about solar energy at the school and allow the students to produce their own solar bugs. This will give the community's children a chance to learn about solar energy and how to put it to use.</p>
                 </div>
             </div>
-                
-        <div id = "footer">
-        <div class = "container">Copyright Notice Here- Site maintained by Laura Frye</div>
-        </div>
     </body>
 </html>
