@@ -1,0 +1,35 @@
+<DOCTYPE html>
+<html lang="en-US">
+
+<head> 
+  <title>Solar Bugs</title> 
+</head>
+
+  body 
+    { 
+        font-family: arial;
+        background-color: #ebebeb;
+    }
+
+<body> 
+ <div id="maimComtaner">
+    
+    #header 
+    {
+        background-color: black;
+        height: 100px;
+        width: 100%;
+    }
+    </div>
+
+      <nav class="horizontalNAV">
+        <ul>  
+          <li><a href="home.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="instructions.html">Instructions</a></li>
+          <li><a href="future plans.html">Future Plans</a></li>
+          </ul>
+
+</body>
+
+</html>
