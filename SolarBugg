@@ -1,0 +1,23 @@
+<DOCTYPE html> 
+<html lang="en-US">
+
+<head> 
+<title>Solar Bugs</title> 
+</head> 
+
+<body> 
+<div id="maincontainer"> 
+<div id="header">
+<img src-"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4IMnYwJmCQ_FDuzwHmlJ32kGql1iCobHsQyFoaf2lWi_GyFeIlA" alt="header" id="headerIMG" /> 
+</div>
+
+<nav class="horizontalNAV">
+<ul>
+<li><a href="home.html">Home</a></li>
+<li><a href="about.html">About Solar Energy</a></li>
+<li><a href="about.html"> About Our Project</a></li>
+<li><a href="instructions.html">Instructions</a></li>
+<li><a href="future.html">Future Plans</a></li>
+</ul>
+</body>
+</html> 
